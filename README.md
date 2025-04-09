@@ -13,19 +13,6 @@ Esta página web demuestra una interacción visual atractiva utilizando JavaScri
 * **Fácil de Usar:** Simplemente abre el archivo HTML en cualquier navegador web moderno para experimentar la funcionalidad.
 * **Código Claro:** El código JavaScript está bien estructurado y comentado, facilitando su comprensión y modificación.
 
-## 📸 Captura de Pantalla
-
-![Captura de pantalla del proyecto mostrando los ojos siguiendo el ratón](Eyes%20mouse%20move/screenshot.png)
-*Puedes ver una imagen del proyecto en acción arriba.*
-
-## 📹 Demostración en Video
-
-<video controls width="640" height="360">
-  <source src="mousemove.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de video. <a href="mousemove.mp4">Descarga el video</a> para verlo.
-</video>
-*Este video muestra el proyecto en funcionamiento.*
-
 ## 🔗 Enlace a la Página Web
 
 [![Enlace a la página web](https://img.shields.io/badge/Ver%20en%20vivo-¡Haz%20clic%20aquí!-brightgreen?style=for-the-badge)](https://eyesmousemove.netlify.app)
