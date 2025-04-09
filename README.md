@@ -1,7 +1,5 @@
 # 👀 Ojos que Siguen al Ratón
 
-[![Captura de pantalla](Eyes%20mouse%20move/screenshot.png)](https://gianmattus-programmer.github.io/Youtube-project-_Code_with_patel_-main/Eyes%20mouse%20move/)
-
 **Un divertido y sencillo proyecto web que hace que un par de ojos sigan el movimiento del cursor del ratón en tiempo real.**
 
 ## 💡 Descripción
@@ -20,9 +18,17 @@ Esta página web demuestra una interacción visual atractiva utilizando JavaScri
 ![Captura de pantalla del proyecto mostrando los ojos siguiendo el ratón](Eyes%20mouse%20move/screenshot.png)
 *Puedes ver una imagen del proyecto en acción arriba.*
 
+## 📹 Demostración en Video
+
+<video controls width="640" height="360">
+  <source src="mousemove.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video. <a href="mousemove.mp4">Descarga el video</a> para verlo.
+</video>
+*Este video muestra el proyecto en funcionamiento.*
+
 ## 🔗 Enlace a la Página Web
 
-[![Enlace a la página web](https://img.shields.io/badge/Ver%20en%20vivo-¡Haz%20clic%20aquí!-brightgreen?style=for-the-badge)](https://gianmattus-programmer.github.io/Youtube-project-_Code_with_patel_-main/Eyes%20mouse%20move/)
+[![Enlace a la página web](https://img.shields.io/badge/Ver%20en%20vivo-¡Haz%20clic%20aquí!-brightgreen?style=for-the-badge)](https://eyesmousemove.netlify.app)
 *Visita la página web en vivo para interactuar con los ojos.*
 
 ## 🛠️ Tecnologías Utilizadas
@@ -41,12 +47,12 @@ Este proyecto se construyó utilizando las siguientes tecnologías web estándar
 
 ## 👨‍💻 Créditos
 
-Este proyecto fue creado por [**Tu nombre**].
+Este proyecto fue creado por **gianmattus-programmer**.
 
 Siéntete libre de explorar el código, modificarlo y utilizarlo como base para tus propios proyectos. ¡Se agradece cualquier mención o reconocimiento!
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+Este proyecto está licenciado bajo la [Licencia MIT](https://github.com/gianmattus-programmer/EYES-MOUSE-MOVE/blob/main/LICENSE).
 
 Puedes consultar el archivo `LICENSE` para obtener más detalles sobre los términos y condiciones de esta licencia. En resumen, la licencia MIT te permite utilizar, copiar, modificar y distribuir el software libremente, siempre que se incluya el aviso de copyright y el aviso de permiso en todas las copias o partes sustanciales del software.
